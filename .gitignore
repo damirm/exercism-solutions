@@ -1,0 +1,9 @@
+.gradle
+build
+.exercism
+target
+debug
+Cargo.lock
+**/*.rs.bk
+.project
+.settings
